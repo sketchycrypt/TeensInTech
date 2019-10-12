@@ -35,6 +35,11 @@ header {
 	font-weight: 400;
 	margin: 5px;
 }
+
+.logo-container:hover{
+	cursor: pointer;
+}
+
 nav {
 	flex: 2;
 }
