@@ -5,9 +5,11 @@
 }
 
 body {
-	font-family: 'Poppins', sans-serif;
-	background: linear-gradient(rgb(135,206,250) , rgb(255, 255, 255));
+    font-family: 'Poppins', sans-serif;
+    background: linear-gradient(rgb(135,206,250) , rgb(255, 255, 255));
 }
+
+
 button {
 	font-family: 'Poppins', sans-serif;
 }
@@ -101,12 +103,6 @@ nav {
 	font-size: 20px;
 	border: none;
 	color: white;
-}
-
-.cta-add:hover{
-	background: white;
-	color: #008cff;
-	transition: 0.8s;
 }
 
 .cover {
